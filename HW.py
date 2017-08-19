@@ -1,0 +1,1 @@
+print('Hello, World!? That?! I hate any world!!')
